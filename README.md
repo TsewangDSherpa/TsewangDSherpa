@@ -1,18 +1,19 @@
-# 👋 Hello! I'm [Tsewang Sherpa]
+# 👋 Hello! I'm Tsewang Sherpa
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a knack for creating efficient and user-friendly applications. My journey in tech has led me to explore various technologies, and I'm always excited to learn more.
 
 ## 🚀 About Me
 
 - 💻 I love working with:
-  - Java, Kotlin, Python
+  - Java, Kotlin, Python, Bash
   - Android Development
   - Web Technologies (HTML, CSS, JavaScript)
   - RESTful APIs and Microservices
 
 - 🌱 Currently learning:
   - [React](https://reactjs.org/)
-  - [Flutter](https://flutter.dev/)
+  - [Kotlin](https://kotlinlang.org/)
+  - [Rust](https://www.rust-lang.org/)
   - Cloud technologies (AWS, Azure)
 
 - 🎯 My goal is to build applications that solve real-world problems and enhance user experiences.
@@ -30,15 +31,14 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a knack fo
 
 Here are a few projects I’ve worked on:
 
-1. **[Project Name](link-to-your-project)**: Brief description of what this project does and the technologies used.
-2. **[Another Project](link-to-your-project)**: Brief description of this project.
-3. **[More Projects](link-to-your-projects)**: Explore my other projects on GitHub!
+1. **[Zombie Game](https://sherpatsewang01.itch.io/zombieattacksprint3)**: A game created in Unity, kill the zombies and earn points. 
+2. **[Tama App](https://github.com/TsewangDSherpa/tamaFrontEnd)**: Created a Tamagotchi Styled website where you can adopt a pet and play with it. 
+
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/tsewangdsherpa047/)
+- [Portfolio](https://tsewangdsherpa.github.io/TDS/)
 
 ## 📫 Get in Touch
 
